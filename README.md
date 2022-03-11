@@ -1,12 +1,11 @@
 # My Diary
 This is a Flutter based Diary App were you can add, delete and edit your daily things in life.
-powered by Tinkerhub Co-coder
 
 ![logo](https://user-images.githubusercontent.com/71746986/157914385-32116e23-d9a3-4739-9e6c-720d02ba174f.png)
 
 ## Team members
 1. Ashwin Sivasankaran [Link](https://github.com/ashwinsk24)
-3. Abdul Nihad K 
+2. Abdul Nihad K 
 
 ## Team Id
 Flutter/44
@@ -22,3 +21,5 @@ Flutter/44
 4. After authentication the Home Screen is displayed.
 5. Here main operations -add, remove and edit of pages takes place.
 6. Sign Out 
+
+*A Tinkerhub event-Co-coder*
