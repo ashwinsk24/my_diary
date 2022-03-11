@@ -5,14 +5,15 @@ powered by Tinkerhub Co-coder
 ![logo](https://user-images.githubusercontent.com/71746986/157914385-32116e23-d9a3-4739-9e6c-720d02ba174f.png)
 
 ## Team members
-1. Ashwin Sivasankaran [https://github.com/ashwinsk24]
-2. Abdul Nihad K 
+1. Ashwin Sivasankaran [Link](https://github.com/ashwinsk24)
+3. Abdul Nihad K 
 
 ## Team Id
 Flutter/44
 
 ## Link to product walkthrough
-[https://drive.google.com/file/d/1eOT7bredXj3CblG_gDWg8Lr6ki7mX6wm/view?usp=sharing]
+[Video](https://drive.google.com/file/d/1eOT7bredXj3CblG_gDWg8Lr6ki7mX6wm/view?usp=sharing)
+
 
 ## How it Works ?
 1. Flutter run
