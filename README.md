@@ -4,7 +4,7 @@ This is a Flutter based Diary App were you can add, delete and edit your daily t
 ![logo](https://user-images.githubusercontent.com/71746986/157914385-32116e23-d9a3-4739-9e6c-720d02ba174f.png)
 
 ## Team members
-1. Ashwin Sivasankaran [Link](https://github.com/ashwinsk24)
+1. Ashwin Sivasankaran [ashwinsk24](https://github.com/ashwinsk24)
 2. Abdul Nihad K 
 
 ## Team Id
